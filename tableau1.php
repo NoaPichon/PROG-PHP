@@ -5,7 +5,7 @@
       <TITLE>Utilisation des tableaux-10</TITLE>  
 </HEAD>
  <BODY>
- 	<UL>
+ 	<UL>flkfkf
           <?php
           	$tab=file("tableau-10.txt");
           	for ($i=0 ; $i < count($tab) ; $j++) {
